@@ -3,3 +3,5 @@ ipywidgets
 tqdm
 python-dotenv
 aiml-py-common-utils
+openai
+
